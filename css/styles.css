@@ -252,7 +252,7 @@ body {
 .hero {
   display: block;
   text-align: center;
-  background-color: var(--fhone-color);
+  background-image: url(../imgfont/hero.png);
   padding-top: 200px;
   padding-bottom: 200px;
 }
