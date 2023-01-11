@@ -310,6 +310,7 @@ ul {
 }
 .tel {
   display: flex;
+  align-items: center;
 }
 
 .about-list {
@@ -399,4 +400,9 @@ ul {
 .main-sec {
   padding-top: 94px;
   padding-bottom: 94px;
+}
+.mail-tel;
+contacts-icon {
+  fill: currentColor;
+  margin-right: 10px;
 }
