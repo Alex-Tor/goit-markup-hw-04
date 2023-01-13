@@ -255,6 +255,13 @@ body {
   background-image: url(../imgfont/hero.png);
   padding-top: 200px;
   padding-bottom: 200px;
+  margin-bottom: 94px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  max-width: 1600px;
+  height: 600px;
+  margin: 0 auto;
 }
 .logo-footer:hover,
 .logo-footer:focus {
@@ -333,8 +340,19 @@ ul {
 .list-item:not(:last-child) {
   margin-right: 30px;
 }
-
-.desc-section {
+.box-features-icon {
+  display: flex;
+  height: 120;
+  background: #f5f4fa;
+  border-radius: 4px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30;
+}
+.list-team {
+  width: 270;
+}
+. .desc-section {
   padding-top: 94px;
   padding-bottom: 94px;
 }
